@@ -13,6 +13,7 @@ public class AppInitializer extends Application {
     @Override
     public void start(Stage stage) throws Exception {
     stage.setScene(new Scene(FXMLLoader.load(getClass().getResource("/view/loading.fxml"))));
+    stage.initStyle(StageStyle.UNDECORATED);
     stage.show();
     stage.centerOnScreen();
     }
