@@ -1,4 +1,4 @@
-package lk.ijse.library_managment;
+package lk.ijse;
 
 public class AppInitializerWrapper {
 }
