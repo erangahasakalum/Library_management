@@ -1,0 +1,12 @@
+.parent{
+    -fx-background-color: transparent;
+}
+
+.pane{
+    -fx-background-color: blue;
+}
+
+.white-pane{
+    -fx-background-color: white
+;
+}
