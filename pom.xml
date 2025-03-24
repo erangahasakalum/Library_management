@@ -44,12 +44,7 @@
             <artifactId>lombok</artifactId>
             <version>1.18.30</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.virtualbox/vboxjws -->
-        <dependency>
-            <groupId>org.virtualbox</groupId>
-            <artifactId>vboxjws</artifactId>
-            <version>4.2.8</version>
-        </dependency>
+
 
     </dependencies>
 
